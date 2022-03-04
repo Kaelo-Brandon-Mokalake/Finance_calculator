@@ -1,2 +1,1 @@
-# projects
 _FINANCE_CALCULATOR_
